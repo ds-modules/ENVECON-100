@@ -1,0 +1,46 @@
+
+Region:
+Questions associated with this variable:
+
+A. REGION OF INTERVIEW
+
+Code 	Label                  2014
+1 	New england            126
+2 	Middle atlantic	       309	
+3 	E. nor. central	       428
+4 	W. nor. central	       145
+5 	South atlantic	       512
+6 	E. sou. central	       151
+7 	W. sou. central	       263
+8 	Mountain	       224
+9 	Pacific		       380
+
+Happy:
+Questions associated with this variable:
+
+Taken all together, how would you say things are these days--would you say that you are very happy, pretty happy, or not too happy?
+
+
+Code 	Label	    	2014
+1 	Very happy	786
+2 	Pretty happy	1403
+3 	Not too happy	341
+8 	Don't know	6
+9 	No answer	2
+0 	Not applicable	0
+
+
+Realinc:
+ Questions associated with this variable:
+
+Family income on 1972-2006 surveys in constant dollars (base = 1986)
+
+Statistics         2014
+Minimum		   236.5
+1st Quartile	   11233.75
+Median		   21285
+Mean		   33965.38
+3rd Quartile	   39022.5
+Maximum		   134817.44
+Standard deviation 35537.07
+
